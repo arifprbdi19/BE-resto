@@ -1,7 +1,6 @@
 import mysql from 'mysql2';
 
 // create the connection to database
-// test
 
 const db = mysql.createConnection({
   host: '34.70.96.245',
